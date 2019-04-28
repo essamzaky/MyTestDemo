@@ -1,0 +1,4 @@
+c:\users\emz\documents\visual studio 2010\Projects\TestDemo\TestDemo\bin\Debug\TestDemo.exe
+c:\users\emz\documents\visual studio 2010\Projects\TestDemo\TestDemo\bin\Debug\TestDemo.pdb
+c:\users\emz\documents\visual studio 2010\Projects\TestDemo\TestDemo\obj\x86\Debug\TestDemo.exe
+c:\users\emz\documents\visual studio 2010\Projects\TestDemo\TestDemo\obj\x86\Debug\TestDemo.pdb
